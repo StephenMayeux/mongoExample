@@ -1,0 +1,15 @@
+{
+  "name": "mongo-example",
+  "version": "1.0.0",
+  "description": "An example of using MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Mayeux",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.8"
+  }
+}
